@@ -1,0 +1,18 @@
+{
+  "addresses": [
+    {
+      "type": "home",
+      "street": "1058 Scarecrow Dr",
+      "city": "Aspen",
+      "state": "CO",
+      "zip": "80328"
+    },
+    {
+      "type": "school",
+      "street": "4001 Discovery Dr",
+      "city": "Boulder",
+      "state": "CO",
+      "zip": "80303"
+    }
+  ]
+}
